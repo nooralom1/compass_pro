@@ -4,7 +4,7 @@ A simple and customizable Flutter compass package built on top of flutter_compas
 
 It provides a smooth compass widget with real-time device orientation support.
 
-
+#
 
 🚀 Features
 
