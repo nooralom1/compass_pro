@@ -34,27 +34,6 @@ flutter pub get
 
 #
 
-⚡ Usage
-
-import 'package:compass_pro/compass_pro.dart';
-
-class CompassExample extends StatelessWidget {
-
-  const CompassExample({super.key});
-  
-  @override
-  
-  Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(
-        child: CompassPro(),
-      ),
-    );
-  }
-}
-
-#
-
 🖼️ Example UI
 
 ![WhatsApp Image 2025-09-02 at 05 59 47](https://github.com/user-attachments/assets/7db0cc01-8967-4fb6-9ffa-540ae40c1823)
