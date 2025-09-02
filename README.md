@@ -36,7 +36,7 @@ flutter pub get
 
 🖼️ Example UI
 
-![WhatsApp Image 2025-09-02 at 05 59 47](https://github.com/user-attachments/assets/7db0cc01-8967-4fb6-9ffa-540ae40c1823)
+<img src="/Users/softvence/compass_pro/asset/example.jpeg" width="300" alt="Compass Pro Example">
 
 #
 
