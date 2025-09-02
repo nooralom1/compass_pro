@@ -1,45 +1,61 @@
-Compass Pro
+📍 Compass Pro
+A simple and customizable Flutter compass package built on top of flutter_compass.
+It provides a smooth compass widget with real-time device orientation support.
 
-Compass Pro is a Flutter package that provides an accurate, smooth, and feature-rich compass experience. It leverages device sensors to detect orientation and provides location-based information, making it ideal for navigation, hiking, and outdoor apps.
 
-Features
 
-Real-time compass heading using device sensors.
+🚀 Features
+🔄 Real-time compass heading updates
+🎨 Customizable UI (icons, styles, and layouts)
+📡 Built with flutter_compass, geolocator, and geocoding
+🧭 Lightweight & easy to use
 
-Smooth and responsive needle animation.
 
-Location integration (latitude, longitude) using GPS.
 
-Supports both iOS and Android.
-
-Easy-to-use API for seamless integration.
-
-Optional customization for UI (needle color, background, size).
-
-Installation
-
-Add compass_pro to your pubspec.yaml:
-
+📦 Installation
+Add this to your pubspec.yaml:
 dependencies:
-  compass_pro: ^1.0.0
+  compass_pro: ^0.0.1
+
 
 
 Then run:
-
 flutter pub get
 
-Usage
-Basic Compass
-import 'package:flutter/material.dart';
-import 'package:compass_pro/compass_pro.dart';
 
-class CompassScreen extends StatelessWidget {
+
+⚡ Usage
+import 'package:compass_pro/compass_pro.dart';
+class CompassExample extends StatelessWidget {
+  const CompassExample({super.key});
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Center(
         child: CompassPro(),
       ),
     );
   }
 }
+
+
+
+🖼️ Example UI
+(Add a screenshot/gif of your compass widget here)
+
+
+📌 Roadmap
+✅ Basic compass widget
+🔲 Add themes and customization options
+🔲 Support for map integration
+🔲 Calibration support
+
+
+🛠️ Contributing
+Contributions are welcome!
+Feel free to open issues and submit pull requests.
+
+
+📄 License
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
