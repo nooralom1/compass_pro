@@ -1,14 +1,13 @@
 name: compass_pro
 description: "A professional compass widget with heading, coordinates, location, and elevation support."
 license: "MIT"
-version: 0.0.4
-homepage: https://github.com/nooralom1/compass_pro.git
+version: 1.0.2
+
 example:
-  path: example
+  path: lib/example/lib/main.dart
 
-repository: https://github.com/nooralom1/compass_pro
-issue_tracker: https://github.com/nooralom1/compass_pro/issues
-
+repository: https://github.com/yourusername/compass_pro
+homepage: https://pub.dev/packages/compass_pro
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -21,10 +20,11 @@ dependencies:
   geocoding: ^4.0.0
   geolocator: ^14.0.2
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
