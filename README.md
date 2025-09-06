@@ -37,7 +37,7 @@ import 'package:compass_pro/compass_pro.dart';
 
 ## 📷 Screenshots
 <p align="center">
-  <img src="https://github.com/nooralom1/compass_pro/blob/main/asset/example.jpeg" width="300" style="margin-right: 10px;" />
+  <img src="https://github.com/nooralom1/compass_pro/blob/main/asset/example.jpeg?raw=true" width="300" />
 </p>
 
 
