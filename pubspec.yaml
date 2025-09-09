@@ -1,7 +1,7 @@
 name: compass_pro
 description: "A professional compass widget with heading, coordinates, location, and elevation support."
 license: "MIT"
-version: 1.0.3
+version: 1.0.4
 
 example:
   path: lib/example/lib/main.dart

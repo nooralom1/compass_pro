@@ -1,6 +1,6 @@
-# RowScroller 🛍️
+# Compass_Pro 🧭
 
-A **Flutter widget** for displaying a **beautiful horizontal scrolling product list** with customizable **badges, icons, colors, styles**, and more.
+A **Flutter widget** for displaying a **beautiful Compass** with customizable **icons, colors, styles**, and more.
 
 ---
 
@@ -67,7 +67,7 @@ class CompassExampleApp extends StatelessWidget {
 
 ## 📷 Screenshots
 <p align="center">
-  <img src="https://github.com/nooralom1/compass_pro/blob/main/asset/example.jpeg?raw=true" width="300" />
+  <img src="https://raw.githubusercontent.com/nooralom1/compass_pro/refs/heads/main/asset/example.jpeg?token=GHSAT0AAAAAADCMNBRMKWIKATGVFMFBSFSS2F7OSEA" width="300" />
 </p>
 
 
