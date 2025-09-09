@@ -1,3 +1,7 @@
+## 1.0.5
+
+Access a fully ready compass.
+
 ## 1.0.2
 
 Access a fully ready compass.
