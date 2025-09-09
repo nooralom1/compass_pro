@@ -8,7 +8,7 @@ A **Flutter widget** for displaying a **beautiful Compass** with customizable **
 * 🔄 Real-time compass heading updates
 * 🎨 Customizable UI (icons, styles, and layouts)
 * 📡 Built with flutter_compass, geolocator, and geocoding
-*🧭 Lightweight & easy to use
+* 🧭 Lightweight & easy to use
 
 ---
 
