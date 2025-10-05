@@ -32,48 +32,17 @@ Import the package:
 ```dart
 import 'package:compass_pro/compass_pro.dart';
 ```
-
----
-
-## 📦 Example
-
-```dart
-import 'package:compass_pro/compass_pro.dart';
-import 'package:flutter/material.dart';
-
-void main() {
-  runApp(const CompassExampleApp());
-}
-
-class CompassExampleApp extends StatelessWidget {
-  const CompassExampleApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        appBar: AppBar(title: const Text('Compass Pro Example')),
-        body: const Center(
-          child: CompassPro(),
-        ),
-      ),
-    );
-  }
-}
-```
-
 ---
 
 ## 📷 Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nooralom1/compass_pro/refs/heads/main/asset/example.jpeg?token=GHSAT0AAAAAADCMNBRMKWIKATGVFMFBSFSS2F7OSEA" width="300" />
+  <img src="https://raw.githubusercontent.com/nooralom1/compass_pro/refs/heads/main/asset/example.jpeg" width="300" />
 </p>
 
 
 
 👨‍💻 Developed By
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/132379427?v=4" width="120" height="120" style="border-radius:50%" /> </p> <h3 align="center">Md. Noor-Alom Siddik</h3> <p align="center"> <a href="https://github.com/nooralom1"> <img src="https://img.shields.io/badge/GitHub-mdabdullahalsiddik-black?logo=github" /> </a> <a href="mailto:mailto:noor418534@gmail.com"> <img src="https://img.shields.io/badge/Email-mdabdullahalsiddik.dev%40gmail.com-red?logo=gmail" /> </a> </p>
+<p align="center"> <img src="https://lh3.googleusercontent.com/a/ACg8ocJ9044cDTIdpJn9ElpdYPeE_PeD7sDjC1WPvp77cGJmTzZXm0a6=s288-c-no" width="120" height="120" style="border-radius:50%" /> </p> <h3 align="center">Md. Noor-Alom Siddik</h3> <p align="center"> <a href="https://github.com/nooralom1"> <img src="https://img.shields.io/badge/GitHub-mdabdullahalsiddik-black?logo=github" /> </a> <a href="mailto:mailto:noor418534@gmail.com"> <img src="https://img.shields.io/badge/Email-mdabdullahalsiddik.dev%40gmail.com-red?logo=gmail" /> </a> </p>
 
 
 ## 💡 Contributing
