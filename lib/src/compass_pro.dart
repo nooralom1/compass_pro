@@ -48,13 +48,15 @@ class _CompassProState extends State<CompassPro> {
   @override
   void initState() {
     super.initState();
-    // compass
+
+    /// compass
     FlutterCompass.events!.listen((event) {
       setState(() {
         heading = event.heading;
       });
     });
-    // location
+
+    /// location
     _getLocation();
   }
 
@@ -127,7 +129,7 @@ class _CompassProState extends State<CompassPro> {
             : Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  // Compass Image
+                  /// Compass Image
                   Transform.rotate(
                     angle: (currentHeading * (math.pi / 180) * -1),
                     child: widget.compassImage ??
@@ -138,7 +140,8 @@ class _CompassProState extends State<CompassPro> {
                     Column(
                       children: [
                         const SizedBox(height: 30),
-                        // Heading + Cardinal
+
+                        /// Heading + Cardinal
                         Text(
                           "${currentHeading.toStringAsFixed(0)}° $cardinal",
                           style: widget.currentHeadingStyle ??
@@ -154,7 +157,8 @@ class _CompassProState extends State<CompassPro> {
                     Column(
                       children: [
                         const SizedBox(height: 40),
-                        // Location info
+
+                        /// Location info
                         Text(
                           "${_position!.latitude.toStringAsFixed(5)}° N, "
                           "${_position!.longitude.toStringAsFixed(5)}° E",

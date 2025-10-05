@@ -18,7 +18,7 @@ Add the package to your **pubspec.yaml**:
 
 ```yaml
 dependencies:
-  compass_pro: ^1.0.0
+  compass_pro: ^1.0.7
 ```
 
 Then run:
@@ -42,7 +42,7 @@ import 'package:compass_pro/compass_pro.dart';
 
 
 👨‍💻 Developed By
-<p align="center"> <img src="https://lh3.googleusercontent.com/a/ACg8ocJ9044cDTIdpJn9ElpdYPeE_PeD7sDjC1WPvp77cGJmTzZXm0a6=s288-c-no" width="120" height="120" style="border-radius:50%" /> </p> <h3 align="center">Md. Noor-Alom Siddik</h3> <p align="center"> <a href="https://github.com/nooralom1"> <img src="https://img.shields.io/badge/GitHub-mdabdullahalsiddik-black?logo=github" /> </a> <a href="mailto:mailto:noor418534@gmail.com"> <img src="https://img.shields.io/badge/Email-mdabdullahalsiddik.dev%40gmail.com-red?logo=gmail" /> </a> </p>
+<p align="center"> <img src="https://lh3.googleusercontent.com/a/ACg8ocJ9044cDTIdpJn9ElpdYPeE_PeD7sDjC1WPvp77cGJmTzZXm0a6=s288-c-no" width="250" height="250" style="border-radius:50%" /> </p> <h3 align="center">Md. Noor-Alom Siddik</h3> <p align="center"> <a href="https://github.com/nooralom1"> <img src="https://img.shields.io/badge/GitHub-mdabdullahalsiddik-black?logo=github" /> </a> <a href="mailto:mailto:noor418534@gmail.com"> <img src="https://img.shields.io/badge/Email-mdabdullahalsiddik.dev%40gmail.com-red?logo=gmail" /> </a> </p>
 
 
 ## 💡 Contributing

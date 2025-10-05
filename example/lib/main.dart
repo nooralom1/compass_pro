@@ -26,6 +26,8 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("CompassPro Example")),
+
+      /// The main widget of Compass Pro.
       body: const Center(child: CompassPro()),
     );
   }
