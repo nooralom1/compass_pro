@@ -1,4 +1,7 @@
-## 1.0.5
+## 1.0.9
+Access a fully ready compass, Add an example, fixed the compass issue
+
+## 1.0.6
 Access a fully ready compass, Add an example
 
 ## 1.0.5

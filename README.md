@@ -18,7 +18,7 @@ Add the package to your **pubspec.yaml**:
 
 ```yaml
 dependencies:
-  compass_pro: ^1.0.7
+  compass_pro: ^1.0.9
 ```
 
 Then run:

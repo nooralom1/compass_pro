@@ -133,8 +133,8 @@ class _CompassProState extends State<CompassPro> {
                   Transform.rotate(
                     angle: (currentHeading * (math.pi / 180) * -1),
                     child: widget.compassImage ??
-                        Image.asset(
-                            "/Users/softvence/compass_pro/asset/compass.png"),
+                        Image.network(
+                            "https://github.com/nooralom1/compass_pro/blob/main/asset/compass.png?raw=true"),
                   ),
                   if (widget.currentHeadingShow == true)
                     Column(
