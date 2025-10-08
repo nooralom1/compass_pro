@@ -1,3 +1,6 @@
+## 1.1.0
+Access a fully ready compass, Add an example, fixed the compass issue, Add permissions
+
 ## 1.0.9
 Access a fully ready compass, Add an example, fixed the compass issue
 

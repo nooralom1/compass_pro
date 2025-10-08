@@ -34,6 +34,46 @@ import 'package:compass_pro/compass_pro.dart';
 ```
 ---
 
+## 📦 Permissions
+
+## For Android
+
+Add this permissions to your **AndroidManifest.xml**:
+
+```xml
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+```
+
+## For iOS
+
+Add this permissions to your **Info.plist**:
+
+```xml
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We use your location to show compass direction.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>This app needs access to your location to show compass direction.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>This app needs access to your location even when running in the background.</string>
+```
+
+Then run:
+
+```bash
+flutter clean
+flutter pub get
+flutter run
+```
+
+Import the package:
+
+```dart
+import 'package:compass_pro/compass_pro.dart';
+```
+---
+
 ## 📷 Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/nooralom1/compass_pro/refs/heads/main/asset/example.jpeg" width="300" />
